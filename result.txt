@@ -1,0 +1,6 @@
+Connected with result code 0
+Publish_ack: 1
+Publish_ack: 2
+Subscribe_ack: 3 (0,)
+'Received message ' 100 Degree Celsius ' on topic ' /plano/temperature/' with qos '0
+'Received message ' 70% ' on topic ' /plano/humidity/' with qos '0
